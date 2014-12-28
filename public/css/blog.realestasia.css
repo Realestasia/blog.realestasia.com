@@ -1,0 +1,48 @@
+.wrapper {
+    margin: auto;
+/*    width: 940px; */
+    max-width: 36rem;
+}
+header {
+    background: url("http://realestasia.com/img/nav.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    height: 53px;
+    vertical-align: middle;
+    margin-bottom: 3rem;
+}
+header h1.logo {
+    color: #FFF;
+    float: left;
+    font-size: 1.4rem;
+    margin-top: 0.4rem;
+}
+header h1.logo a {
+    color: #FFF;
+}
+header #logo {
+    background: url("http://realestasia.com/img/realestasia-logo.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    display: block;
+    float: left;
+    height: 21px;
+    margin-top: 15px;
+    width: 122px;
+}
+header #logo {
+    background: url("http://realestasia.com/img/realestasia-logo-1.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    display: block;
+    float: left;
+    height: 29px;
+    margin-top: 9px;
+    width: 161px;
+}
+header nav {
+    float: left;
+    margin-left: 23px;
+    margin-top: 0;
+}
+header nav.right {
+    float: right;
+    line-height: 48px;
+}
+header nav.right a {
+    color: #fff;
+}
