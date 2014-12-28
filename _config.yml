@@ -1,0 +1,19 @@
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Realestasia blog
+tagline:          Real Estate investing across Asia
+url:              http://blog.realestasia.com
+paginate:         1
+baseurl:          /
+author:
+  name:           Realestasia
+  url:            https://twitter.com/realestasia
+  email:          info@realestasia.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/poole/poole
