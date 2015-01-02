@@ -1,12 +1,13 @@
 # Permalinks
-permalink:        pretty
+# permalink:        pretty
+permalink:        	:title
 relative_permalinks: true
 
 # Setup
 title:            Realestasia blog
 tagline:          Real Estate investing across Asia
 url:              http://blog.realestasia.com
-paginate:         1
+paginate:         3
 baseurl:          /
 author:
   name:           Realestasia
